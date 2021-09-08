@@ -1,32 +1,36 @@
-## Hi there 👋
-
-<!--
-**sy1909/sy1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1909)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sy1909&label=Profile%20views&color=0e75b6&style=flat" alt="sy1909" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sy1909" alt="sy1909" /></a> </p>
+<a href="https://congchu.github.io/portfolio-1"><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
+<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
+![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 👋 &nbsp; HI THERE . ☺️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sy1909&show_icons=true&locale=en&layout=compact" alt="sy1909" /></p>
+✔️ &nbsp;소개.\
+✔️ &nbsp;소개.\
+✔️ &nbsp;소개.\
+✔️ &nbsp; 추가 링크, <a href="">제 포트폴리오</a>를 방문해주세요.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sy1909&show_icons=true&locale=en" alt="sy1909" /></p>
+
+### 🛠 &nbsp;Technical Skills
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+<br/>
+
+### 💻 &nbsp;GitHub Analytics
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+
+
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
