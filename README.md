@@ -3,15 +3,13 @@
 
 ## 👋 &nbsp; HI THERE . ☺️
 
-✔️ &nbsp;내 영역에서 별 거 아니던 것이 다른 영역에서 새롭게 받아들여지고 엄청난 시도처럼 받아들여 지는것이 ,\
-✔️ &nbsp;체계적인 아주체계적인 융복합이 아니더라도 다양한 영역에서 경험을 공유하면서 새로운영역을 창출할 수 있다.\
+✔️ &nbsp;내 영역에서 별 거 아니던 것이 다른 영역에서 새롭게 받아들여지고 엄청난 시도처럼 받아들여 지는것이 \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;체계적인 아주 체계적인 융복합이 아니더라도 다양한 영역에서 경험을 공유하면서 새로운 영역을 창출할 수 있다.\
 ✔️ &nbsp;핀테크 테크핀 빅테크 마이데이터산업에 관심 많은 개발자 김승윤입니다.\
 ✔️ &nbsp; 추가 링크, <a href="">준비중</a>를 방문해주세요.
 
 
 ### 🛠 &nbsp;Technical Skills
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
