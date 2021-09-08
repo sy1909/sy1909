@@ -1,6 +1,4 @@
-<a href="https://congchu.github.io/portfolio-1"><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
-<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
-![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
+![https://komarev.com/ghpvc/?username=sy1909](https://komarev.com/ghpvc/?username=sy1909)
 
 
 ## 👋 &nbsp; HI THERE . ☺️
@@ -25,12 +23,6 @@
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sy1909&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/sy1909/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy1909&layout=compact&theme=algolia)](https://github.com/sy1909/github-readme-stats)
 
-
-### 🤝🏻 &nbsp;Contact
-<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
